@@ -6,7 +6,7 @@ The project uses historical UCI Bank Marketing data. It represents a portfolio s
 
 ## Dashboard preview
 
-![Excel dashboard showing campaign KPIs, previous-outcome conversion, reported contacts by contact band, slicers and findings](dashboard/Dashboard.png)
+![Excel dashboard showing campaign KPIs, previous-outcome conversion, reported contacts by contact band, slicers and findings](dashboard/dashboard.png)
 
 [View the dashboard PDF](dashboard/Dashboard.pdf) · [Download the Excel workbook](workbook/Bank_Marketing_Portfolio.xlsx) · [Read the executive summary](reports/Executive_Summary.pdf) · [View the presentation](reports/Presentation.pdf)
 
